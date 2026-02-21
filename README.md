@@ -17,13 +17,6 @@
 - Power BI
 - Git & GitHub
 
-## 📂 Upcoming AI Projects
-- 🏠 House Price Prediction
-- 💳 Credit Worthiness Analysis
-- 🛒 E-Commerce Data Analysis
-- 🧠 Sentiment Analysis
-- 🚀 ML Model Deployment API
-
 ## 🎯 Goal
 To build production-ready AI solutions and solve real-world business problems using data.
 
